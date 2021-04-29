@@ -119,7 +119,6 @@ a {
 
 .list dt {
 
-    /* Since we're hiding elements behind here, we need it in 3d */
     -webkit-transform: translateZ(0.3px);
     -moz-transform: translateZ(0.3px);
     -ms-transform: translateZ(0.3px);
